@@ -1,8 +1,8 @@
 <?php
 
-namespace mitu\oldtailor\customer\sku;
+namespace metooweb\oldtailor\customer\sku;
 
-use mitu\oldtailor\Request;
+use metooweb\oldtailor\Request;
 
 class Get extends Request{
     

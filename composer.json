@@ -1,7 +1,7 @@
 {
 	"autoload" : {
 		"psr-4" : {
-			"mitu\\oldtailor\\" : "src"
+			"metooweb\\oldtailor\\" : "src"
 		}
 	},
 	"name" : "metooweb/oldtailor-sdk",
@@ -9,6 +9,5 @@
 	"require" : {
 		"php" : ">=7.1",
 		"hprose/hprose" : "~2.0",
-		"metooweb/helper" : "dev-master"
 	}
 }

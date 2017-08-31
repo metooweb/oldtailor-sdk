@@ -1,6 +1,6 @@
 <?php
 
-namespace mitu\oldtailor;
+namespace metooweb\oldtailor;
 
 use Hprose;
 
