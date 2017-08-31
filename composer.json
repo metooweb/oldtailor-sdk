@@ -8,6 +8,6 @@
 	"type" : "library",
 	"require" : {
 		"php" : ">=7.1",
-		"hprose/hprose" : "~2.0",
+		"hprose/hprose" : "~2.0"
 	}
 }
